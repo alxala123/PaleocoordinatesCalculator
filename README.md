@@ -78,7 +78,7 @@ Visualization is powered by open-source libraries like React, Three.js (@react-t
 
 ## Credits and Authors
 
-* **Developers:** Paleocoordinates team ([Your Institution], 2025).
+* **Developers:** Paleocoordinates team (Biost3 team, 2025).
 * **R scripts:** Built with *palaeoverse* and tidyverse ecosystem.
 * **3D Visualization:** Built with React Three Fiber, react-globe.gl, Framer Motion, Tailwind CSS, and more.
 * **Acknowledgments:** Inspired by GPlates and paleogeographic tools cited above.
