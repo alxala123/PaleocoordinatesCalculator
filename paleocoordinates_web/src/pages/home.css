@@ -1,0 +1,242 @@
+/* Reset y tipografía base */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #fafafa;
+  color: #222;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Contenedor principal */
+.home-main-content {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 3rem 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 4rem;
+}
+
+/* ----------------- Mapa y controles ------------------- */
+.map-section {
+  position: relative;
+  height: 650px;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow:
+    0 0 15px rgba(0, 0, 0, 0.08),
+    0 10px 30px rgba(0, 0, 0, 0.1);
+  background: linear-gradient(180deg, #000814 0%, #001d3d 100%);
+}
+
+/* Controles sobre el mapa */
+.input-overlay {
+  position: absolute;
+  top: 1.5rem;
+  left: 1.5rem;
+  z-index: 20;
+  display: flex;
+  gap: 1rem;
+  background: rgba(255 255 255 / 0.9);
+  padding: 1rem 1.5rem;
+  border-radius: 14px;
+  box-shadow:
+    0 2px 8px rgba(0, 0, 0, 0.12);
+  align-items: center;
+  flex-wrap: wrap;
+  max-width: 380px;
+}
+
+/* Inputs */
+.input-overlay input {
+  flex: 1 1 110px;
+  padding: 0.55rem 0.9rem;
+  font-size: 1rem;
+  border: 1.8px solid #ccc;
+  border-radius: 10px;
+  transition: border-color 0.25s ease;
+  color: #111;
+  outline-offset: 2px;
+}
+
+.input-overlay input:focus {
+  border-color: #0055aa;
+  box-shadow: 0 0 6px #4a90e2a1;
+}
+
+/* Botones */
+.input-overlay button {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background-color: #0055aa;
+  color: white;
+  font-weight: 600;
+  padding: 0.55rem 1rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  user-select: none;
+  transition: background-color 0.3s ease;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+
+.input-overlay button:hover:not(:disabled) {
+  background-color: #004080;
+}
+
+.input-overlay button:disabled {
+  background-color: #9bb7d4;
+  cursor: not-allowed;
+}
+
+/* Error */
+.error-message {
+  width: 100%;
+  color: #b00020;
+  font-weight: 600;
+  margin-top: 0.5rem;
+  font-size: 0.875rem;
+  user-select: none;
+}
+
+/* --------- How It Works - paso a paso --------- */
+.how-it-works-section {
+  background: white;
+  padding: 3rem 3.5rem;
+  border-radius: 18px;
+  box-shadow:
+    0 4px 14px rgba(0, 0, 0, 0.07);
+  text-align: center;
+}
+
+.how-it-works-section h2 {
+  font-size: 2.8rem;
+  font-weight: 700;
+  color: #002855;
+  margin-bottom: 2rem;
+}
+
+.steps-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
+  gap: 2.5rem 3.5rem;
+  justify-items: center;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.step {
+  background: #f0f7ff;
+  border-radius: 16px;
+  padding: 2rem 1.7rem;
+  box-shadow:
+    0 2px 12px rgba(0, 88, 255, 0.18);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: default;
+  user-select: none;
+}
+
+.step:hover {
+  transform: translateY(-8px);
+  box-shadow:
+    0 10px 25px rgba(0, 88, 255, 0.3);
+}
+
+.step-icon {
+  font-size: 3.6rem;
+  color: #0055aa;
+  margin-bottom: 1rem;
+}
+
+.step h3 {
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+  color: #002855;
+}
+
+.step p {
+  font-size: 1rem;
+  color: #354052;
+  line-height: 1.4;
+}
+
+/* --------- Sobre la app --------- */
+.app-info-section {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  text-align: center;
+}
+
+.app-info-section h2 {
+  font-weight: 700;
+  font-size: 2.2rem;
+  color: #002855;
+  margin-bottom: 1rem;
+}
+
+.app-info-section p {
+  font-size: 1.05rem;
+  color: #444d56;
+  margin-bottom: 1rem;
+  line-height: 1.55;
+}
+
+/* ----------- Responsive ----------- */
+@media (max-width: 1024px) {
+  .map-section {
+    height: 520px;
+  }
+  .input-overlay {
+    max-width: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 1rem;
+    padding: 0.8rem 1.2rem;
+  }
+  .input-overlay input {
+    flex: 1 1 100px;
+    font-size: 0.95rem;
+  }
+  .input-overlay button {
+    font-size: 0.95rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .map-section {
+    height: 420px;
+  }
+  .how-it-works-section {
+    padding: 2rem 1.5rem;
+  }
+  .how-it-works-section h2 {
+    font-size: 2rem;
+  }
+  .steps-container {
+    grid-template-columns: 1fr;
+    gap: 1.7rem;
+  }
+  .step {
+    padding: 1.6rem 1.2rem;
+  }
+  .step-icon {
+    font-size: 3rem;
+  }
+  .app-info-section h2 {
+    font-size: 1.7rem;
+  }
+  .app-info-section p {
+    font-size: 1rem;
+  }
+}

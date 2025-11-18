@@ -1,0 +1,110 @@
+.citation {
+    padding: 40px 24px;
+    max-width: 1100px;
+    margin: 0 auto;
+    font-family: 'Georgia', serif;
+    color: #222;
+    line-height: 1.6;
+  }
+  
+  h1 {
+    color: #004080;
+    font-size: 2rem;
+    margin-bottom: 24px;
+  }
+  
+  .citation-box {
+    background: #f5faff;
+    padding: 24px;
+    border-left: 5px solid #007BFF;
+    border-radius: 6px;
+    margin-bottom: 48px;
+    position: relative;
+  }
+  
+  .quote-icon {
+    font-size: 2rem;
+    color: #007BFF;
+    position: absolute;
+    top: 16px;
+    left: 16px;
+  }
+  
+  .citation-box p {
+    margin-left: 32px;
+    margin-bottom: 12px;
+  }
+  
+  .citation-ref {
+    background: #fff;
+    border-left: 3px solid #007BFF;
+    padding: 12px 16px;
+    margin-left: 32px;
+    font-style: italic;
+    font-size: 0.95rem;
+    color: #333;
+  }
+  
+  .citation-ref.small {
+    font-size: 0.9rem;
+    margin-top: 10px;
+  }
+  
+  .inline-icon {
+    font-size: 0.8rem;
+    margin-left: 6px;
+    vertical-align: middle;
+  }
+  
+  /* TEAM SECTION */
+  .team-section {
+    margin-top: 60px;
+  }
+  
+  .team-section h2 {
+    color: #004080;
+    margin-bottom: 24px;
+  }
+  
+  .team-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 32px;
+  }
+  
+  .team-member {
+    background: #f9f9f9;
+    padding: 20px;
+    border-left: 4px solid #004080;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+    transition: transform 0.2s ease;
+  }
+  
+  .team-member:hover {
+    transform: translateY(-4px);
+  }
+  
+  .team-member img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 12px;
+    border: 2px solid #004080;
+  }
+  
+  .team-member h3 {
+    color: #004080;
+    margin-bottom: 6px;
+    font-size: 1.1rem;
+  }
+  
+  .team-member .role {
+    font-style: italic;
+    font-size: 0.9rem;
+    color: #666;
+    margin-bottom: 10px;
+  }
+  

@@ -1,0 +1,318 @@
+Name;Stages;lat;lng;age_min;age_max
+Bath (Saint Thomas, Jamaica);Maastrichtian–Paleocene;17.953601;-76.354919;72.2;66
+Danek Bonebed Quarry 1 (Alberta, Canada);Maastrichtian;53.436108;-113.545832;72.2;66
+Danek Bonebed Quarry 2 (Alberta, Canada);Maastrichtian;53.436293;-113.544974;72.2;66
+Edmonton River Valley (Alberta, Canada);Maastrichtian;53.527222;-113.490833;72.2;66
+Morrin Bridge in Drumheller (Alberta, Canada);Maastrichtian;51.647306;-112.908556;72.2;66
+Big Muddy Badlands, Battle Fm. (Saskatchewan, Canada);Maastrichtian; 49.036   ;-104.878   ;72.2;66
+Horsethief Canyon (Alberta, Canada);Maastrichtian;51.539417;-112.868556;72.2;66
+Royal Tyrrell Museum in Drumheller (Alberta, Canada);Maastrichtian;51.478056;-112.788889;72.2;66
+Tyrannosaurus Bonebed (Saskatchewan, Canada);Maastrichtian;49.402238;-108.499106;72.2;66
+Vansandt Site (Saskatchewan, Canada);Maastrichtian;49.486959;-108.257445;72.2;66
+Garfield County (Montana, USA);Maastrichtian;47.615675;-106.901625;72.2;66
+Ferris Fm. 1 (Wyoming, USA);Maastrichtian;41.931502;-106.880933;72.2;66
+Medicine Bow Fm. (Wyoming, USA);Maastrichtian;42.058093;-106.669145;72.2;66
+Ferris Fm. 2 (Wyoming, USA);Maastrichtian;42.065867;-106.592069;72.2;66
+Boulder (Colorado, USA);Maastrichtian;39.910218;-105.243843;72.2;66
+Hell Creek Fm. (South Dakota, USA);Maastrichtian;45.236546;-103.196625;72.2;66
+Sewell (New Jersey, USA);Maastrichtian;39.772944;-75.143417;72.2;66
+Serraduy (Huesca, Spain);Maastrichtian;42.350048;0.516363;72.2;66
+Figols (Barcelona, Spain);Maastrichtian;42.178607;1.839807;72.2;66
+La Nou de Berguedà (Barcelona, Spain);Maastrichtian;42.168175;1.882722;72.2;66
+Mina Esperanza (Barcelona, Spain);Maastrichtian;42.154305;1.945893;72.2;66
+Mishor Rotem (Southern District, Israel);Maastrichtian;31.040633;35.128863;72.2;66
+Therria (Meghalaya, India);Maastrichtian;25.18775;91.764444;72.2;66
+Marlboro (New Jersey, USA);Campanian–Maastrichtian;40.358029;-74.280025;83.6;66
+Lo Hueco (Cuenca, Spain);Campanian–Maastrichtian;39.96494;-2.053211;83.6;66
+La Solana (Valencia, Spain);Campanian–Maastrichtian;39.202529;-0.586799;83.6;66
+Red Willow River Hadrosaurus Skeleton (Alberta, Canada);Campanian;55.080688;-119.520786;83.6;72.2
+Wapiti River/Pipestone Creek Bonebed (Alberta, Canada);Campanian;55.051616;-119.107382;83.6;72.2
+Pipestone Creek Pachyrhinosaurus Bonebed (Alberta, Canada);Campanian;55.062508;-119.102391;83.6;72.2
+Spring Creek Bonebed (Alberta, Canada);Campanian;55.075784;-118.924046;83.6;72.2
+Punta Baja (Baja California, Mexico);Campanian;29.957801;-115.807023;83.6;72.2
+Grassy Lake (Alberta, Canada);Campanian;49.896776;-111.949575;83.6;72.2
+Dinosaur Provincial Park (Alberta, Canada);Campanian;50.758061;-111.484237;83.6;72.2
+San Juan Basin (New Mexico, USA);Campanian;36.284962;-108.1932;83.6;72.2
+Allen Ridge Fm. (Wyoming, USA);Campanian;41.989152;-106.385368;83.6;72.2
+Brewster County (Texas, USA);Campanian;29.203749;-103.568819;83.6;72.2
+Cedar Lake (Manitoba, Canada);Campanian;53.438313;-100.970456;83.6;72.2
+Neuse River (North Carolina, USA);Campanian;35.363653;-78.04321;83.6;72.2
+Tar River (North Carolina, USA);Campanian;35.679194;-77.480933;83.6;72.2
+Ellisdale (New Jersey, USA);Campanian;40.130104;-74.585604;83.6;72.2
+Cheesequake (New Jersey, USA);Campanian;40.422098;-74.287069;83.6;72.2
+Martigues north (Provence-Alpes-Côte d'Azur, France);Campanian;43.424552;5.038903;83.6;72.2
+Tilin (Mangway, Myanmar);Campanian;21.683333;94.083333;83.6;72.2
+Ajka (Veszprém, Hungary);Santonian–Campanian;47.088728;17.586446;85.7;72.2
+Tuna-1 (Victoria, Australia);Santonian–Campanian;-38.173452;148.419348;85.7;72.2
+Coffee Bluff (Tennessee, USA);Santonian;35.282826;-88.249204;85.7;83.6
+Parsons (Tennessee, USA);Santonian;35.641774;-88.172014;85.7;83.6
+Ingersoll shale (Alabama, USA);Santonian;32.44106;-84.996031;85.7;83.6
+Kinkora (New Jersey, USA);Santonian;40.118816;-74.750999;85.7;83.6
+Cliffwood (New Jersey, USA);Santonian;40.442886;-74.221207;85.7;83.6
+Piolenc 2 (Provence-Alpes-Côte d'Azur, France);Santonian;44.182905;4.762482;85.7;83.6
+Piolenc 1 (Provence-Alpes-Côte d'Azur, France);Santonian;44.184572;4.765538;85.7;83.6
+Martigues-La Mède (Provence-Alpes-Côte d'Azur, France);Santonian;43.398163;5.073071;85.7;83.6
+Ensuès-la-Redonne 1 (Provence-Alpes-Côte d'Azur, France);Santonian;43.330107;5.202521;85.7;83.6
+Ensuès-la-Redonne 2 (Provence-Alpes-Côte d'Azur, France);Santonian;43.329551;5.20641;85.7;83.6
+Belcodène (Provence-Alpes-Côte d'Azur, France);Santonian;43.408449;5.578364;85.7;83.6
+Plan d'Aups/La Brasque (Provence-Alpes-Côte d'Azur, France);Santonian;43.322615;5.705315;85.7;83.6
+Glacières de Pivaut (Provence-Alpes-Côte d'Azur, France);Santonian;43.35234;5.852818;85.7;83.6
+Plan d'Aups/Dowtown (Provence-Alpes-Côte d'Azur, France);Santonian;43.350673;5.853374;85.7;83.6
+Equireuil Quarry (Provence-Alpes-Côte d'Azur, France);Santonian;43.359842;5.955599;85.7;83.6
+Romanikha (Krasnoyarsk Krai, Russian Federation);Santonian;70.929167;98.641111;85.7;83.6
+Yantardakh (Krasnoyarsk Krai, Russian Federation);Santonian;71.307222;99.562778;85.7;83.6
+Tumulda (Krasnoyarsk Krai, Russian Federation);Santonian;71.807268;100.452133;85.7;83.6
+Isaevsky (Krasnoyarsk Krai, Russian Federation);Santonian;71.719598;100.479599;85.7;83.6
+Bulun (Krasnoyarsk Krai, Russian Federation);Santonian;71.627778;100.966111;85.7;83.6
+Sokolovsky (Krasnoyarsk Krai, Russian Federation);Santonian;71.776372;101.204697;85.7;83.6
+Ugolyak (Krasnoyarsk Krai, Russian Federation);Santonian;72.029722;101.33;85.7;83.6
+Iwaki (Fukushima, Japan);Santonian;37.141889;140.954317;85.7;83.6
+Kuji (Iwate, Japan);Santonian;40.150427;141.743732;85.7;83.6
+Xixia (Henan, China);Coniacian–Campanian;33.309394;111.4821;89.8;72.2
+Vernasso (Friuli-Venezia Giulia, Italy);Coniacian–Santonian;46.126866;13.47091;89.8;83.6
+Chipaque Fm. mina La Popa, Cordillera Oriental (Colombia);Coniacian–Santonian;4.70866;-7.395213;89.8;83.6
+Shavarshavan (Tavush, Armenia);Coniacian;41.135556;45.125;89.8;85.7
+Mamalichay River (Lachin District, Azerbaijan);Coniacian;39.707583;46.243157;89.8;85.7
+Paden (Mississippi, USA);Turonian;34.658152;-88.271414;93.9;89.8
+Harrisonville (New Jersey, USA);Turonian;39.687247;-75.274416;93.9;89.8
+Roebling (New Jersey, USA);Turonian;40.11683;-74.782843;93.9;89.8
+Bordentown (New Jersey, USA);Turonian;40.146902;-74.679588;93.9;89.8
+Pemberton (New Jersey, USA);Turonian;39.977076;-74.678601;93.9;89.8
+Sayreville (New Jersey, USA);Turonian;40.445943;-74.346957;93.9;89.8
+Parlin (New Jersey, USA);Turonian;40.461217;-74.324192;93.9;89.8
+South Amboy (New Jersey, USA);Turonian;40.491667;-74.291667;93.9;89.8
+Charleston (New York, USA);Turonian;40.533703;-74.227046;93.9;89.8
+Squankum (New Jersey, USA);Turonian;40.171254;-74.152629;93.9;89.8
+Martha's Vineyard (Massachusetts, USA);Turonian;41.346534;-70.818369;93.9;89.8
+Soto del Real (Madrid, Spain);Turonian;40.763656;-3.796509;93.9;89.8
+La Garnache (Pays de la Loire, France);Turonian;46.882048;-1.857921;93.9;89.8
+Sainte-Mondane (Nouvelle-Aquitaine, France);Turonian;44.841254;1.31507;93.9;89.8
+Saint-Marcel-de-Careiret (Provence-Alpes-Côte d'Azur, France);Turonian;44.150055;4.483409;93.9;89.8
+THA01 (Victoria, Australia);Turonian;-39.237336;142.90215;93.9;89.8
+Thylacine-1 (Victoria, Australia);Turonian;-39.239509;142.913649;93.9;89.8
+Minerva-1 (Victoria, Australia);Turonian;-38.701905;142.954795;93.9;89.8
+Minerva-2a (Victoria, Australia);Turonian;-38.716434;142.957147;93.9;89.8
+Iona-4 (Victoria, Australia);Turonian;-38.605287;142.974889;93.9;89.8
+Chatham Islands (New Zealand);Cenomanian–Turonian;-44.245421;-176.223832;100.5;89.8
+Quality Creek (British Columbia, Canada);Cenomanian–Turonian;55.167777;-120.954293;100.5;89.8
+Timmerdyakh-Khaya (Sakha Republic (Yakutia), Russian Federation);Cenomanian–Turonian;64.054444;123.569722;100.5;89.8
+Tal-Yuryakh (Magadan Oblast, Russian Federation);Cenomanian–Turonian;63.294907;146.664805;100.5;89.8
+Dunvegan (Alberta, Canada);Cenomanian;55.931305;-118.571736;100.5;93.9
+Grayson County (Texas, USA);Cenomanian;33.65432;-96.710549;100.5;93.9
+Woodbridge (New Jersey, USA);Cenomanian;40.555977;-74.271099;100.5;93.9
+Mata Amarilla Fm. (Santa Cruz, Argentina);Cenomanian;-49.526933;-71.484137;100.5;93.9
+Alto de El Caleyu (Asturias, Spain);Cenomanian;43.323627;-5.874667;100.5;93.9
+Pruvia (Asturias, Spain);Cenomanian;43.452634;-5.767591;100.5;93.9
+Torrelaguna (Madrid, Spain);Cenomanian;40.842191;-3.542636;100.5;93.9
+Hoz Seca (Guadalajara, Spain);Cenomanian;40.5328;-1.871413;100.5;93.9
+Aix Island (Nouvelle-Aquitaine, France);Cenomanian;46.019394;-1.15607;100.5;93.9
+Enet Island (Nouvelle-Aquitaine, France);Cenomanian;46.003307;-1.143324;100.5;93.9
+Fouras/Bois-Vert (Nouvelle-Aquitaine, France);Cenomanian;45.992477;-1.100376;100.5;93.9
+Saint-Lon (Nouvelle-Aquitaine, France);Cenomanian;43.611196;-1.099688;100.5;93.9
+Fouras (Nouvelle-Aquitaine, France);Cenomanian;45.974085;-1.079191;100.5;93.9
+Cadeuil (Nouvelle-Aquitaine, France);Cenomanian;45.767241;-0.939347;100.5;93.9
+Losa del Obispo (Valencia, Spain);Cenomanian;39.71653;-0.879237;100.5;93.9
+Les Renardières (Nouvelle-Aquitaine, France);Cenomanian;45.965954;-0.829285;100.5;93.9
+Briollay (Pays de la Loire, France);Cenomanian;47.555998;-0.513936;100.5;93.9
+Hucheloup (Pays de la Loire, France);Cenomanian;47.533926;-0.502208;100.5;93.9
+Le Brouillard (Pays de la Loire, France);Cenomanian;47.53565;-0.492037;100.5;93.9
+Neau (Pays de la Loire, France);Cenomanian;48.159989;-0.459807;100.5;93.9
+Précigné (Pays de la Loire, France);Cenomanian;47.772811;-0.325368;100.5;93.9
+Durtal (Pays de la Loire, France);Cenomanian;47.683508;-0.281249;100.5;93.9
+La Brousse (Pays de la Loire, France);Cenomanian;47.776108;-0.054578;100.5;93.9
+Saint-Jean-du-Bois (Pays de la Loire, France);Cenomanian;47.868666;-0.03422;100.5;93.9
+Mézeray (Pays de la Loire, France);Cenomanian;47.825517;-0.025052;100.5;93.9
+La-Suze-sur-Sarthe (Pays de la Loire, France);Cenomanian;47.898511;0.014017;100.5;93.9
+Röezé-sur-Sarthe (Pays de la Loire, France);Cenomanian;47.902842;0.071942;100.5;93.9
+La Bazoge (Pays de la Loire, France);Cenomanian;48.099435;0.127984;100.5;93.9
+Fessard (Pays de la Loire, France);Cenomanian;47.82726;0.136578;100.5;93.9
+Mansigné (Pays de la Loire, France);Cenomanian;47.751894;0.144061;100.5;93.9
+Moncé-en-Belin (Pays de la Loire, France);Cenomanian;47.889764;0.185164;100.5;93.9
+La Buzinie (Nouvelle-Aquitaine, France);Cenomanian;45.705148;0.19365;100.5;93.9
+Écommoy (Pays de la Loire, France);Cenomanian;47.810306;0.259718;100.5;93.9
+Scorbé-Clairvaux-La Bergeonneau (Nouvelle-Aquitaine, France);Cenomanian;46.800977;0.387262;100.5;93.9
+Châtellerault-La Désirée (Nouvelle-Aquitaine, France);Cenomanian;46.831536;0.540599;100.5;93.9
+Saint-Cyprien (Nouvelle-Aquitaine, France);Cenomanian;44.874946;1.07674;100.5;93.9
+Veyrines (Nouvelle-Aquitaine, France);Cenomanian;44.802915;1.079551;100.5;93.9
+Simeyrols (Nouvelle-Aquitaine, France);Cenomanian;44.923328;1.338992;100.5;93.9
+Fourtou (Occitanie, France);Cenomanian;42.902994;2.429223;100.5;93.9
+Schliersee (Bavaria, Germany);Cenomanian;47.717066;11.877551;100.5;93.9
+Nové Strašecí (Central Bohemian Region, Czech Republic);Cenomanian;50.132583;13.910101;100.5;93.9
+K?ižany (Liberec, Czech Republic);Cenomanian;50.708399;14.855637;100.5;93.9
+Nová Ves (South Moravian, Czech Republic);Cenomanian;49.113592;16.310337;100.5;93.9
+Valchov (South Moravian, Czech Republic);Cenomanian;49.482615;16.712453;100.5;93.9
+Agdzhakend (Goranboy District, Azerbaijan);Cenomanian;40.404167;46.493611;100.5;93.9
+Nizhnyaya Agapa (Krasnoyarsk Krai, Russia Federation);Cenomanian;70.165067;86.817831;100.5;93.9
+Nam Sakhaw (Sagaing, Myanmar);Cenomanian;25.671563;95.91554;100.5;93.9
+Lajamaw (Kachin, Myanmar);Cenomanian;26.249444;96.466667;100.5;93.9
+Ladummaw (Kachin, Myanmar);Cenomanian;26.188611;96.467778;100.5;93.9
+Noije Bum (Kachin, Myanmar);Cenomanian;26.250278;96.550833;100.5;93.9
+Khanjamaw  (Kachin, Myanmar);Cenomanian;26.263889;96.560278;100.5;93.9
+Angbamo (Kachin, Myanmar);Cenomanian;26.266628;96.593876;100.5;93.9
+Xipiugong (Kachin, Myanmar);Cenomanian;26.321647;96.679664;100.5;93.9
+Omalik River (Alaska, USA);Albian–Cenomanian;70.308762;-159.808086;113.2;93.9
+Kuk/Kaolak River (Alaska, USA);Albian–Cenomanian;70.121333;-159.616345;113.2;93.9
+Killik Bend (Alaska, USA);Albian–Cenomanian;69.147133;-153.249248;113.2;93.9
+Jefferson County (Nebraska, USA);Albian–Cenomanian;40.029714;-97.174042;113.2;93.9
+Seward County (Nebraska, USA);Albian–Cenomanian;40.789766;-96.964229;113.2;93.9
+Qeqertarsuatsiaq/Hare Island (Greenland);Albian–Cenomanian;70.421907;-54.879139;113.2;93.9
+San Claudio (Asturias, Spain);Albian–Cenomanian;43.352554;-5.914707;113.2;93.9
+La Manjoya (Asturias, Spain);Albian–Cenomanian;43.341174;-5.860553;113.2;93.9
+Fonfría (Cantabria, Spain);Albian–Cenomanian;43.391447;-4.265705;113.2;93.9
+Oreña (Cantabria, Spain);Albian–Cenomanian;43.392009;-4.138525;113.2;93.9
+Cuchía (Cantabria, Spain);Albian–Cenomanian;43.445557;-4.016127;113.2;93.9
+Somocueva (Cantabria, Spain);Albian–Cenomanian;43.469855;-3.945295;113.2;93.9
+Archingeay-Les Nouillers (Nouvelle-Aquitaine, France);Albian–Cenomanian;45.93744;-0.696843;113.2;93.9
+Estercuel (Teruel, Spain);Albian–Cenomanian;40.855012;-0.640288;113.2;93.9
+Logata (Krasnoyarsk Krai, Russia);Albian–Cenomanian;73.781097;99.098412;113.2;93.9
+Novaya (Krasnoyarsk Krai, Russian Federation);Albian–Cenomanian;72.576578;101.045395;113.2;93.9
+Baikura (Krasnoyarsk Krai, Russian Federation);Albian–Cenomanian;73.833056;101.426389;113.2;93.9
+Gubina Gora (Krasnoyarsk Krai, Russian Federation);Albian–Cenomanian;71.976294;102.59996;113.2;93.9
+Moroskop (Krasnoyarsk Krai, Russia);Albian–Cenomanian;72.492496;103.489853;113.2;93.9
+Nikon-Yuryakh (Krasnoyarsk Krai, Russia);Albian–Cenomanian;73.168606;105.132309;113.2;93.9
+Bediey (Krasnoyarsk Krai, Russia);Albian–Cenomanian;73.597126;106.324326;113.2;93.9
+Syndassko in Khatangskaya Guba (Krasnoyarsk Krai, Russian Federation);Albian–Cenomanian;73.280064;108.235947;113.2;93.9
+Drill Site PS104_20, Pine Island, Amundsen Sea Embayment (West Antarctica);Mid-Cretaceous;-73.9500;-107.1500;113.2;93.9
+Omalik River (Alaska, USA);Albian–Cenomanian;70.308762;-159.808086;113.2;93.9
+Kuk/Kaolak River (Alaska, USA);Albian–Cenomanian;70.121333;-159.616345;113.2;93.9
+Killik Bend (Alaska, USA);Albian–Cenomanian;69.147133;-153.249248;113.2;93.9
+Jefferson County (Nebraska, USA);Albian–Cenomanian;40.029714;-97.174042;113.2;93.9
+Seward County (Nebraska, USA);Albian–Cenomanian;40.789766;-96.964229;113.2;93.9
+Qeqertarsuatsiaq/Hare Island (Greenland);Albian–Cenomanian;70.421907;-54.879139;113.2;93.9
+San Claudio (Asturias, Spain);Albian–Cenomanian;43.352554;-5.914707;113.2;93.9
+La Manjoya (Asturias, Spain);Albian–Cenomanian;43.341174;-5.860553;113.2;93.9
+Fonfría (Cantabria, Spain);Albian–Cenomanian;43.391447;-4.265705;113.2;93.9
+Oreña (Cantabria, Spain);Albian–Cenomanian;43.392009;-4.138525;113.2;93.9
+Cuchía (Cantabria, Spain);Albian–Cenomanian;43.445557;-4.016127;113.2;93.9
+Somocueva (Cantabria, Spain);Albian–Cenomanian;43.469855;-3.945295;113.2;93.9
+Archingeay-Les Nouillers (Nouvelle-Aquitaine, France);Albian–Cenomanian;45.93744;-0.696843;113.2;93.9
+Estercuel (Teruel, Spain);Albian–Cenomanian;40.855012;-0.640288;113.2;93.9
+Logata (Krasnoyarsk Krai, Russia);Albian–Cenomanian;73.781097;99.098412;113.2;93.9
+Novaya (Krasnoyarsk Krai, Russian Federation);Albian–Cenomanian;72.576578;101.045395;113.2;93.9
+Baikura (Krasnoyarsk Krai, Russian Federation);Albian–Cenomanian;73.833056;101.426389;113.2;93.9
+Gubina Gora (Krasnoyarsk Krai, Russian Federation);Albian–Cenomanian;71.976294;102.59996;113.2;93.9
+Moroskop (Krasnoyarsk Krai, Russia);Albian–Cenomanian;72.492496;103.489853;113.2;93.9
+Nikon-Yuryakh (Krasnoyarsk Krai, Russia);Albian–Cenomanian;73.168606;105.132309;113.2;93.9
+Bediey (Krasnoyarsk Krai, Russia);Albian–Cenomanian;73.597126;106.324326;113.2;93.9
+Syndassko in Khatangskaya Guba (Krasnoyarsk Krai, Russian Federation);Albian–Cenomanian;73.280064;108.235947;113.2;93.9
+Ellsworth County (Kansas, USA);Albian;38.658596;-98.03351;113.2;100.5
+Pungarayacu (Napo, Ecuador);Albian;-0.706706;-77.741328;113.2;100.5
+Mina Genoveva (Napo Basin, Ecuador);Albian;-0.71102;-77.7877;113.2;100.5
+Rio Misahuallí (Napo Basin, Ecuador);Albian;-1.0012;-77.6728;113.2;100.5
+Washington D.C. (District of Columbia, USA);Albian;38.872161;-76.96074;113.2;100.5
+Cape Sable (Maryland, USA);Albian;39.083242;-76.501509;113.2;100.5
+Magoito (Lisboa, Portugal);Albian;38.865081;-9.449777;113.2;100.5
+Corte Caleyu (Asturias, Spain);Albian;43.323392;-5.873173;113.2;100.5
+El Caleyu (Asturias, Spain);Albian;43.322488;-5.870998;113.2;100.5
+La Rodada (Asturias, Spain);Albian;43.331092;-5.862788;113.2;100.5
+Pola de Siero (Asturias, Spain);Albian;43.383003;-5.653265;113.2;100.5
+Puerto del Boyar (Cádiz, Spain);Albian;36.749342;-5.418143;113.2;100.5
+Trambarria (Asturias, Spain);Albian;43.365272;-5.39535;113.2;100.5
+El Soplao (Cantabria, Spain);Albian;43.305556;-4.447222;113.2;100.5
+San Vicente de la Barquera (Cantabria, Spain);Albian;43.37878;-4.398027;113.2;100.5
+Basconcillos del Tozo-Aguilar de Campoo (Burgos, Spain);Albian;42.753345;-4.075919;113.2;100.5
+Olleros (Palencia, Spain);Albian;42.784019;-4.023417;113.2;100.5
+Ensenada del Camello (Cantabria, Spain);Albian;43.470615;-3.776067;113.2;100.5
+Pancorbo (Burgos, Spain);Albian;42.645703;-3.109928;113.2;100.5
+Salinillas de Buradón (Álava, Spain);Albian;42.638969;-2.856625;113.2;100.5
+San Felices (La Rioja, Spain);Albian;42.625397;-2.84788;113.2;100.5
+Peñacerrada II (Álava, Spain);Albian;42.620316;-2.724882;113.2;100.5
+Peñacerrada I (Burgos, Spain);Albian;42.678611;-2.714722;113.2;100.5
+Zubielki (Navarra, Spain);Albian;42.680208;-2.065931;113.2;100.5
+Moratalla (Murcia, Spain);Albian;38.232161;-1.995206;113.2;100.5
+Villel (Teruel, Spain);Albian;40.239746;-1.178101;113.2;100.5
+Puy-Puy (Nouvelle-Aquitaine, France);Albian;45.963866;-0.880909;113.2;100.5
+San Just (Teruel, Spain);Albian;40.777977;-0.834283;113.2;100.5
+Palomar de Arroyos (Teruel, Spain);Albian;40.766372;-0.744598;113.2;100.5
+Alcaine-Oliete (Teruel, Spain);Albian;40.96797;-0.67808;113.2;100.5
+Quesa (Valencia, Spain);Albian;39.082456;-0.672706;113.2;100.5
+Arroyo de la Pascueta Teruel, Spain);Albian;40.214037;-0.604085;113.2;100.5
+San Vicente del Raspeig (Alicante, Spain);Albian;38.363295;-0.574628;113.2;100.5
+Ariño (Teruel, Spain);Albian;41.031691;-0.558794;113.2;100.5
+Molino de Arriba (Castellón, Spain);Albian;40.149465;-0.549492;113.2;100.5
+La Hoya (Castellón, Spain);Albian;40.198551;-0.52761;113.2;100.5
+Valle de Andorra (Teruel, Spain);Albian;40.992126;-0.47221;113.2;100.5
+Mina Tremedal (Teruel, Spain);Albian;40.9302;-0.429879;113.2;100.5
+Serra Gelada (Alicante, Spain);Albian;38.554207;-0.061944;113.2;100.5
+Son Vida (Mallorca, Spain);Albian;39.599691;2.591447;113.2;100.5
+Bédoin (Provence-Alpes-Côte d'Azur, France);Albian;44.125688;5.191942;113.2;100.5
+Aubignosc (Provence-Alpes-Côte d'Azur, France);Albian;44.115422;5.963911;113.2;100.5
+Salignac 2 (Provence-Alpes-Côte d'Azur, France);Albian;44.175147;5.990576;113.2;100.5
+Ra Stua (Veneto, Italy);Albian;46.62953;12.095667;113.2;100.5
+Wadi Zerka (Jerash, Jordan);Albian;32.207822;35.857673;113.2;100.5
+Khafji Oil Field (Eastern Province, Saudi Arabia);Albian;28.423319;48.837182;113.2;100.5
+Persian Gulf (Iran);Albian;28.233255;51.469268;113.2;100.5
+Hkamti (Sagaing, Myanmar);Albian;25.6901;95.765897;113.2;100.5
+Kresty (Krasnoyarsk Krai, Russian Federation);Albian;71.874722;102.159722;113.2;100.5
+Zhdanikha 2 (Krasnoyarsk Krai, Russian Federation);Albian;72.179444;102.861667;113.2;100.5
+Zhdanikha 1 (Krasnoyarsk Krai, Russian Federation);Albian;72.164722;102.870278;113.2;100.5
+Khetana River (Khabarovsk Krai, Russian Federation);Albian;59.469675;140.218835;113.2;100.5
+Alter do Chão Fm. (Amazonas Basin, Brazil);Aptian-Albian;-2.767645;-59.475501;121.4;100.5
+Estoril-Cascais (Lisboa, Portugal);Aptian–Albian;38.702009;-9.394955;121.4;100.5
+Catefica (Lisboa, Portugal);Aptian–Albian;39.062614;-9.244513;121.4;100.5
+Sesimbra (Setúbal, Portugal);Aptian–Albian;38.44631;-9.092729;121.4;100.5
+Figueira da Foz (Coimbra, Portugal);Aptian–Albian;40.169245;-8.865125;121.4;100.5
+Langer Köchel (Bavaria, Germany);Aptian–Albian;47.630808;11.150015;121.4;100.5
+Suyfun Coal Basin (Primorsky Krai, Russian Federation);Aptian–Albian;44.071184;132.071099;121.4;100.5
+Une Fm., mina La Popa, Cordillera Oriental (Colombia);latest Aptian - early Cenomanian;4.70866;-7.395213;113.2;100.5
+Crato Fm. (Ceará, Brazil);Aptian;-7.127919;-39.82805;121.4;113.2
+Bafureira Beach (Lisboa, Portugal);Aptian;38.692422;-9.36659;121.4;113.2
+Reocín (Cantabria, Spain);Aptian;43.344413;-4.083988;121.4;113.2
+Salignac 1 (Provence-Alpes-Côte d'Azur, France);Aptian;44.176813;5.987242;121.4;113.2
+Doumanga (Kouilou, Congo);Aptian;-4.800837;12.235825;121.4;113.2
+Stary Oskol (Belgorod Oblast, Russian Federation);Aptian;51.268682;37.676911;121.4;113.2
+Lingquan Coal Mine (Inner Mongolia, China);Aptian;49.448056;117.740556;121.4;113.2
+Choshi (Chiba, Japan);Aptian;35.720153;140.848755;121.4;113.2
+Las Hoyas (Cuenca, Spain);Barremian;40.089591;-1.896971;125.77;121.4
+Chilton Chine (Isle of Wight, England);early Barremian;50.637862;-1.422733;125.77;125.77
+Galve (Teruel, Spain);Barremian;40.646109;-0.882341;125.77;121.4
+Aliaga (Teruel, Spain);Barremian;40.670075;-0.710381;125.77;121.4
+Mas de la Parreta Quarry (Castellón, Spain);Barremian;40.59338;-0.137444;125.77;121.4
+Herbés (Castellón, Spain);Barremian;40.710901;-0.011142;125.77;121.4
+Sarhmoul (Mount Lebanon, Lebanon);Barremian;33.772926;35.536314;125.77;121.4
+Maknouniyeh (South, Lebanon);Barremian;33.528022;35.539527;125.77;121.4
+Roum-Aazour Homsiyeh (South, Lebanon);Barremian;33.552665;35.560668;125.77;121.4
+Rihane (South, Lebanon);Barremian;33.448601;35.561993;125.77;121.4
+Jezzine (South, Lebanon);Barremian;33.547825;35.572052;125.77;121.4
+Wadi Jezzine (South, Lebanon);Barremian;33.552797;35.57909;125.77;121.4
+Daychouniyyeh (Mount Lebanon, Lebanon);Barremian;33.85171;35.582019;125.77;121.4
+Ain Zhalta (Mount Lebanon, Lebanon);Barremian;33.731856;35.687719;125.77;121.4
+Hammana-Mdeyrij (Mount Lebanon, Lebanon);Barremian;33.806256;35.731235;125.77;121.4
+Ain Dara 2 (Mount Lebanon, Lebanon);Barremian;33.794078;35.731536;125.77;121.4
+Ain Dara 1 (Mount Lebanon, Lebanon);Barremian;33.794399;35.735827;125.77;121.4
+Falougha (Mount Lebanon, Lebanon);Barremian;33.838379;35.75707;125.77;121.4
+Ouata El-Jaouz (Mount Lebanon, Lebanon);Barremian;34.021883;35.759023;125.77;121.4
+Kfar Selouan (Mount Lebanon, Lebanon);Barremian;33.848538;35.779858;125.77;121.4
+Dahr Qloum Hachem (Mount Lebanon, Lebanon);Barremian;33.997378;35.789799;125.77;121.4
+Baskinta (Mount Lebanon, Lebanon);Barremian;33.942932;35.791466;125.77;121.4
+Red Rock/Mazraat Kfardibiane (Mount Lebanon, Lebanon);Barremian;33.978488;35.797855;125.77;121.4
+Jabal Er Roueis (Mount Lebanon, Lebanon);Barremian;34.008211;35.815911;125.77;121.4
+Bouarij (Beqaa, Lebanon);Barremian;33.821506;35.82478;125.77;121.4
+Tannourine (North, Lebanon);Barremian;34.169385;35.897961;125.77;121.4
+Aita El-Foukhar (Beqaa, Lebanon);Barremian;33.629598;35.925207;125.77;121.4
+Hadath El-Joubbeh (North, Lebanon);Barremian;34.247394;35.938645;125.77;121.4
+Beqaa Kafra (North, Lebanon);Barremian;34.234764;36.020013;125.77;121.4
+Bcharreh (North, Lebanon);Barremian;34.250374;36.035634;125.77;121.4
+Zarzar Lake (Rif Dimashq, Syria);Barremian;33.618295;36.043994;125.77;121.4
+Nimrin/El-Dabsheh (North, Lebanon);Barremian;34.380956;36.061641;125.77;121.4
+Hrar (Akkar, Lebanon);Barremian;34.462113;36.145641;125.77;121.4
+Brissa (North, Lebanon);Barremian;34.401566;36.169015;125.77;121.4
+Mechmech/El-Rassif (Akkar, Lebanon);Barremian;34.46378;36.182864;125.77;121.4
+Mechmech/Aaqabet Raqiya (Akkar, Lebanon);Barremian;34.451836;36.195365;125.77;121.4
+Jord Hrar (North, Lebanon);Barremian;34.386834;36.200643;125.77;121.4
+Mechmech/Ain El-Khyar (Akkar, Lebanon);Barremian;34.438224;36.215643;125.77;121.4
+Esh-Sheaybeh (Baalbek-Hermel, Lebanon);Barremian;33.927009;36.244363;125.77;121.4
+East Baghdad Oilfield (Iraq);Barremian;33.304931;44.527626;125.77;121.4
+Orcera (Jaén, Spain);Hauterivian–Barremian;38.320313;-2.640384;132.6;121.4
+Maracangalha Fm. (Bahia, Brazil);Berriasian–Barremian;-12.359701;-38.455995;143.1;121.4
+Orcera (Jaén, Spain);Hauterivian–Barremian;38.320313;-2.640384;132.6;121.4
+Alaró (Mallorca, Spain);Hauterivian;39.716434;2.842847;132.6;125.77
+Golling (Salzburg, Austria);Hauterivian;47.574799;13.176145;132.6;125.77
+Baboor (Southern District, Israel);Valanginian–Hauterivian;31.134232;35.114071;137.05;125.77
+Kokhov (Southern District, Israel);Valanginian–Hauterivian;31.64491;34.657849;137.05;125.77
+Qiryat Shermona (Northern District, Israel);Valanginian–Hauterivian;33.218157;35.558083;137.05;125.77
+Mount Hermon (Northern District, Israel);Valanginian–Hauterivian;33.267612;35.751543;137.05;125.77
+Bexhill (East Sussex, England);Valanginian;50.860536;0.440242;137.5;132.6
+Kirkwood (Eastern Cape, South Africa);Valanginian;-33.413099;25.47847;137.5;132.6
+Hastings (East Sussex, England);Berriasian–Valanginian;50.843742;0.51837;143.1;132.6
+Maracangalha Fm. (Bahia, Brazil) - repetido?;Berriasian–Barremian;-12.359701;-38.455995;143.1;121.4

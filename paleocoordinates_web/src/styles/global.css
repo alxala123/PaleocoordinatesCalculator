@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Segoe UI', sans-serif;
+    background: #fafafa;
+    color: #333;
+    padding-top: 70px;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  main {
+    padding: 24px;
+  }
+  

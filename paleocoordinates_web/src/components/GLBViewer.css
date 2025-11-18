@@ -1,0 +1,72 @@
+.glb-viewer-container {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 70vh;
+  max-height: 700px;
+  position: relative;
+  background-image: url('/space_1.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  /* prueba quitar o cambiar la siguiente línea */
+  background-attachment: scroll;
+  overflow: hidden;
+}
+
+.glb-viewer-container::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.25);
+  z-index: 0;
+}
+
+canvas {
+  position: relative;
+  z-index: 1;
+  display: block;
+  width: 100% !important;
+  height: 100% !important;
+}
+.map-caption {
+  position: absolute;
+  bottom: 12px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: rgba(0, 0, 0, 0.35); /* más transparente */
+  color: #eee; /* color un poco más suave */
+  padding: 4px 10px;
+  border-radius: 6px;
+  font-size: 0.75rem; /* más pequeño */
+  font-weight: 500;
+  pointer-events: none;
+  user-select: none;
+  z-index: 10;
+  max-width: 90%; /* evitar que sea demasiado ancho */
+  text-align: center;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.spin {
+  animation: rotate 1s linear infinite;
+}
+.settings-icon {
+  transition: transform 0.4s cubic-bezier(0.25, 1.5, 0.5, 1);
+}
+
+.settings-icon.open {
+  transform: rotate(120deg); 
+}
+
+
+
+

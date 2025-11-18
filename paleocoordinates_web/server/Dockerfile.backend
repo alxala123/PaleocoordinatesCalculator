@@ -1,0 +1,55 @@
+FROM rocker/r-ver:4.3.1
+
+RUN apt-get update && \
+    apt-get install -y curl gnupg && \
+    curl -fsSL https://deb.nodesource.com/setup_18.x | bash - && \
+    apt-get install -y \
+      nodejs \
+      libcurl4-openssl-dev \
+      libssl-dev \
+      libxml2-dev \
+      libgit2-dev \
+      libharfbuzz-dev \
+      libfribidi-dev \
+      libfreetype6-dev \
+      libpng-dev \
+      libtiff5-dev \
+      libjpeg-dev \
+      build-essential \
+      libreadline-dev \
+      zlib1g-dev \
+      libopenblas-dev \
+      liblapack-dev \
+      libudunits2-dev \
+      git \
+      # Dependencias geoespaciales para sf y palaeoverse
+      libgdal-dev \
+      libgeos-dev \
+      libproj-dev \
+      libudunits2-dev \
+      libsqlite3-dev && \
+    apt-get clean && \
+    rm -rf /var/lib/apt/lists/*
+
+WORKDIR /app
+
+RUN R -e "install.packages(c('dplyr', 'tidyr', 'readxl', 'stringr', 'remotes'), repos='https://cloud.r-project.org')" && \
+    echo "Paquetes base instalados correctamente"
+
+RUN R -e "install.packages('sf', repos='https://cloud.r-project.org')" && \
+    echo "sf instalado correctamente"
+
+RUN R -e "remotes::install_github('palaeoverse-community/palaeoverse')" && \
+    R -e "if (!require(palaeoverse, quietly = TRUE)) stop('palaeoverse no se instaló correctamente')" && \
+    echo "palaeoverse instalado correctamente"
+
+RUN mkdir -p data results uploads
+
+COPY package*.json ./
+RUN npm install --legacy-peer-deps --only=production
+
+COPY . .
+
+EXPOSE 8080
+
+CMD ["node", "index.js"]

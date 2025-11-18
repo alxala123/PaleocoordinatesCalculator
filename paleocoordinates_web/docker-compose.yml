@@ -1,0 +1,37 @@
+services:
+  backend:
+    build:
+      context: ./server
+      dockerfile: Dockerfile.backend
+    environment:
+      - NODE_ENV=development
+      - PORT=8080
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./server/results:/app/results  
+      - ./server/uploads:/app/uploads
+    networks:
+      - app-network
+
+  frontend:
+    build:
+      context: ./src
+      dockerfile: Dockerfile.frontend
+    environment:
+      - VITE_API_URL=http://161.116.82.76:8080
+      - CHOKIDAR_USEPOLLING=true
+      - WATCHPACK_POLLING=true
+    ports:
+      - "5000:5000"
+    depends_on:
+      - backend
+    volumes:
+      - ./src:/app
+      - /app/node_modules
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
