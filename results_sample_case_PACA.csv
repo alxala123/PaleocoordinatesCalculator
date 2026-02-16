@@ -1,0 +1,16 @@
+Name,lat,lng,age_mean,p_lat,p_lng,range_p_lat,max_dist,period,model
+Allosaurus fragilis,39.323,-110.688,150,37.6254,-38.317,10.4251,2220.021,Tithonian,MERDITH2021
+Allosaurus fragilis,39.323,-110.688,150,37.2359,-52.3646,10.4251,2220.021,Tithonian,TorsvikCocks2017
+Allosaurus fragilis,39.323,-110.688,150,35.7382,-41.6276,10.4251,2220.021,Tithonian,MATTHEWS2016_pmag_ref
+Allosaurus fragilis,39.323,-110.688,150,27.2003,-45.5522,10.4251,2220.021,Tithonian,GOLONKA
+Allosaurus fragilis,39.323,-110.688,150,36.2253,-63.2458,10.4251,2220.021,Tithonian,PALEOMAP
+Basilosaurus isis,31.574,37.118,35.805,18.7333,35.3104,6.1961,836.622,Late Eocene,MERDITH2021
+Basilosaurus isis,31.574,37.118,35.805,22.3618,29.8997,6.1961,836.622,Late Eocene,TorsvikCocks2017
+Basilosaurus isis,31.574,37.118,35.805,22.5192,34.4466,6.1961,836.622,Late Eocene,MATTHEWS2016_pmag_ref
+Basilosaurus isis,31.574,37.118,35.805,19.2376,37.2187,6.1961,836.622,Late Eocene,GOLONKA
+Basilosaurus isis,31.574,37.118,35.805,24.9294,31.9571,6.1961,836.622,Late Eocene,PALEOMAP
+Tyrannosaurus rex,44.175,103.417,73,44.402,100.9028,7.54519999999999,1093.093,Late Campanian,MERDITH2021
+Tyrannosaurus rex,44.175,103.417,73,46.0012,89.047,7.54519999999999,1093.093,Late Campanian,TorsvikCocks2017
+Tyrannosaurus rex,44.175,103.417,73,45.9049,100.2188,7.54519999999999,1093.093,Late Campanian,MATTHEWS2016_pmag_ref
+Tyrannosaurus rex,44.175,103.417,73,38.456,97.5724,7.54519999999999,1093.093,Late Campanian,GOLONKA
+Tyrannosaurus rex,44.175,103.417,73,40.8509,92.8621,7.54519999999999,1093.093,Late Campanian,PALEOMAP
