@@ -92,6 +92,6 @@ Visualization is powered by open-source libraries like React, Three.js (@react-t
 
 ## License
 
-This project is open source under the **MIT License**. See `LICENSE` for details.
+This project is open source under the **GNU General Public License v3.0 (GPL-3.0)**. See `LICENSE` for details.
 
 **Cite as:** Jones et al. (2023), Merdith et al. (2021), Matthews et al. (2016), Wright et al. (2013), Scotese (2016), Torsvik & Cocks (2017).
